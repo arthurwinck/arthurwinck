@@ -5,6 +5,6 @@ I'm a Computer Science undergrad at UFSC and currently working at Pixel Web Deve
 Sou estudante de Ciências da Computação na UFSC e atualmente trabalho na Pixel Desenvolvimento Web! Possuo experiência em Python, HTML, CSS e um pouquinho de JS. Busco me aprimorar em desenvolvimento web e ciência de dados. Sempre buscando arrumar alguns problemas pra resolver, fique a vontade para me mandar uma mensagem!
 
 
-:mailbox: apwinck@gmail.com
+:mailbox: apwinck@gmail.com |
 :bust_in_silhouette: [Linkedin](https://www.linkedin.com/in/arthur-pellenz-winck/)
 
