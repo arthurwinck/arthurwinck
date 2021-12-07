@@ -6,7 +6,7 @@ I'm a Computer Science undergrad at UFSC and currently working at Bridge Labs an
 :bust_in_silhouette: [Linkedin](https://www.linkedin.com/in/arthur-pellenz-winck/)
 
 <div align="center">
-  <a href="https://github.com/b4ra0">
+  <a href="https://github.com/arthurwinck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurwinck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurwinck&layout=compact&langs_count=7&theme=dracula&?hide=css"/>
 </div>
