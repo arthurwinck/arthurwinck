@@ -5,5 +5,8 @@ I'm a Computer Science undergrad at UFSC and currently working at Bridge Labs an
 :mailbox: apwinck@gmail.com |
 :bust_in_silhouette: [Linkedin](https://www.linkedin.com/in/arthur-pellenz-winck/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurwinck&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurwinck&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/b4ra0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurwinck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurwinck&layout=compact&langs_count=7&theme=dracula"/>
+</div>
