@@ -6,3 +6,4 @@ I'm a Computer Science undergrad at UFSC and currently working at Bridge Labs an
 :bust_in_silhouette: [Linkedin](https://www.linkedin.com/in/arthur-pellenz-winck/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurwinck&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurwinck&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
