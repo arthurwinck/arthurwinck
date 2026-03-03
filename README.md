@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-computer science undergrad at @ufsc and fullstack engineer at @paripassu!
+computer science graduate at @ufsc and software engineer at @nubank!
 
 building useful stuff is my motivation
-
-currently working in my thesis with automated graphql resolver generation. 
 
 [linkedin](https://www.linkedin.com/in/arthurwinck/)
